@@ -2,25 +2,22 @@
   type: time_table
   contents:
     - title: PhD in Computer Science
-      institution: University of Rochester, Rochester, NY, United States
-      logo: UR.webp
-      year: Aug 2018 - Jun 2023
+      institution: University of Rochester, New York, United States
+      year: Aug 2018 - Now
       description:
-        - <span>Advisor:</span> <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
+        - Advised by <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
 
     - title: Master in Computer Science
-      institution: Zhejiang University, Hangzhou, Zhejiang, China
-      logo: ZJU.png
+      institution: Zhejiang University, Zhejiang, China
       year: Sep 2015 - Mar 2018
       description:
-        - <span>Advisor:</span> <a href="https://person.zju.edu.cn/en/junx">Jun Xiao</a>.
+        - Advised by <a href="https://person.zju.edu.cn/en/junx">Jun Xiao</a>.
 
     - title: Bachelor in Computer Science
-      institution: Southeast University, Nanjing, Jiangsu, China
-      logo: SEU.png
+      institution: Southeast University, Jiangsu, China
       year: Aug 2011 - Jun 2015
 
-- title: Experience
+- title: Internship
   type: time_table
   contents:
     - title: Applied Scientist
@@ -53,30 +50,6 @@
       description:
         - <span>Mentor:</span> <a href="https://qzyou.github.io/">Quanzeng You</a> and <a href="http://wangjiangb.github.io/">Jiang Wang</a>
         - <span>Topic:</span> Moment Localization with Natural Language
-
-    - title: Research Intern
-      institution: Tencent AI Lab, Bellevue, WA
-      logo: tencent-ai-lab.png
-      year: May 2020 - Aug 2020
-      description:
-        - <span>Mentor:</span> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
-        - <span>Topic:</span> Unsupervised Grammar Induction
-
-    - title: Research Intern
-      institution: Microsoft Research Asia (MSRA), Beijing, China
-      logo: microsoft.png
-      year: May 2019 - Aug 2019
-      description:
-        - <span>Mentor:</span> <a href="https://houwenpeng.com/">Houwen Peng</a> and <a href="https://jianlong-fu.github.io/">Jianlong Fu</a>
-        - <span>Topic:</span> Moment Localization with Natural Language
-
-    - title: Research Intern
-      institution: Tencent AI Lab, Shenzhen, China
-      logo: tencent-ai-lab.png
-      year: Mar 2018 - Aug 2018
-      description:
-        - <span>Mentor:</span> <a href="http://forestlinma.com/">Lin Ma</a> and <a href="https://linchaobao.github.io/">Linchao Bao</a>
-        - <span>Topic:</span> Temporal Action Localization
 
 - title: Honors and Awards
   type: time_table
