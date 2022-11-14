@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sy-zhang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Sy-Zhang/PTC-PCFG
+  - mugen-org/MUGEN_baseline
+  - Sy-Zhang/MMC-PCFG
+  - microsoft/VideoX
+  - Sy-Zhang/TCMN-Release
+  - Sy-Zhang/Geometric-Feature-Release
+  - Sy-Zhang/LIME
