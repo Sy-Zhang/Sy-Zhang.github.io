@@ -1,83 +1,273 @@
 ---
 ---
+@string{emnlp = {Conference on Empirical Methods in Natural Language Processing,}}
+@string{bmvc = {British Machine Vision Conference,}}
+@string{eccv = {European Conference on Computer Vision,}}
+@string{cvpr = {IEEE Conference on Computer Vision and Pattern Recognition,}}
+@string{iccv = {IEEE International Conference on Computer Vision,}}
+@string{naacl = {Conference of the North American Chapter of the Association for Computational Linguistics,}}
+@string{icpr = {International Conference on Pattern Recognition,}}
+@string{bd = {IEEE Big Data,}}
+@string{tpami = {IEEE Transactions on Pattern Analysis and Machine Intelligence,}}
+@string{aaai = {the AAAI Conference on Artificial Intelligence,}}
+@string{acmmm = {ACM International Conference on Multimedia,}}
+@string{mtap = {Multimedia Tools and Applications,}}
+@string{tmm = {IEEE Transactions on Multimedia,}}
+@string{wacv = {IEEE Winter Conference on Applications of Computer Vision,}}
 
-@string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
+@inproceedings{zhang2022training,
+  selected={true},
+  abbr={EMNLP},
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+  pdf={https://arxiv.org/pdf/2210.12309.pdf},
+  code={https://github.com/Sy-Zhang/PTC-PCFG},
+  preview={emnlp-22.png},
+  title={Learning a Grammar Inducer by Watching Millions of Instructional YouTube Videos},
+  author={Zhang, Songyang and Song, Linfeng and Jin, Lifeng and Mi, Haitao and Xu, Kun and Yu, Dong and Luo, Jiebo},
+  booktitle=emnlp,
+  year={2022}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
+@article{singer2022make,
+  selected={true},
+  abbr={arXiv},
   bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+  pdf={https://arxiv.org/pdf/2209.14792.pdf},
+  website={https://makeavideo.studio/},
+  preview={makeavideo.webp},
+  title={Make-a-video: Text-to-video generation without text-video data},
+  author={Singer, Uriel and Polyak, Adam and Hayes, Thomas and Yin, Xi and An, Jie and Zhang, Songyang and Hu, Qiyuan and Yang, Harry and Ashual, Oron and Gafni, Oran and others},
+  journal={arXiv preprint arXiv:2209.14792},
+  year={2022}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
+@inproceedings{li2022rethinking,
+  selected={false},
+  abbr={BMVC},
   bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+  pdf={https://arxiv.org/pdf/2208.01909.pdf},
+  code={https://github.com/xcppy/Unbiased_SGG},
+  preview={bmvc-22.jpg},
+  title={Rethinking the Evaluation of Unbiased Scene Graph Generation},
+  author={Li, Xingchen and Chen, Long and Shao, Jian and Xiao, Shaoning and Zhang, Songyang and Xiao, Jun},
+  booktitle=bmvc,
+  year={2022}
+}
+
+@inproceedings{hayes2022mugen,
+  selected={true},
+  abbr={ECCV},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2204.08058.pdf},
+  code={https://github.com/mugen-org},
+  website={https://mugen-org.github.io/},
+  preview={mugen.webp},
+  title={MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration},
+  author={Hayes*, Thomas and Zhang*, Songyang and Yin, Xi and Pang, Guan and Sheng, Sasha and Yang, Harry and Ge, Songwei and Hu, Qiyuan and Parikh, Devi},
+  booktitle=eccv,
+  year={2022}
+}
+
+@inproceedings{ni2022expanding,
+  selected={true},
+  abbr={ECCV},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2208.02816.pdf},
+  code={https://github.com/microsoft/VideoX},
+  preview={xclip.png},
+  title={Expanding Language-Image Pretrained Models for General Video Recognition},
+  author={Ni, Bolin and Peng, Houwen and Chen, Minghao and Zhang, Songyang and Meng, Gaofeng and Fu, Jianlong and Xiang, Shiming and Ling, Haibin},
+  booktitle=eccv,
+  year={2022}
+}
+
+@inproceedings{li2022devil,
+  selected={false},
+  abbr={CVPR},
+  bibtex_show={true},
+  pdf={https://openaccess.thecvf.com/content/CVPR2022/papers/Li_The_Devil_Is_in_the_Labels_Noisy_Label_Correction_for_CVPR_2022_paper.pdf},
+  code={https://github.com/muktilin/NICE},
+  preview={cvpr-22.jpg},
+  title={The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation},
+  author={Li, Lin and Chen, Long and Huang, Yifeng and Zhang, Zhimeng and Zhang, Songyang and Xiao, Jun},
+  booktitle=cvpr,
+  year={2022}
+}
+
+@InProceedings{yang2021sat,
+  selected={false},
+  abbr={ACMMM},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2109.01369.pdf},
+  preview={acmmm-21.png},
+  title={Instance-wise or Class-wise? A Tale of Neighbor Shapley for Concept-based Explanation},
+  author={Jiahui Li and Kuang, Kun and Li, Lin and Chen, Long and Zhang, Songyang and Shao, Jian and Xiao, Jun},
+  booktitle=acmmm,
+  year={2021}
+}
+
+@InProceedings{yang2021sat,
+  selected={true},
+  abbr={ICCV},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2105.11450.pdf},
+  code={https://github.com/zyang-ur/SAT},
+  preview={iccv-21.jpg},
+  title={SAT: 2D Semantics Assisted Training for 3D Visual Grounding},
+  author={Yang, Zhengyuan and Zhang, Songyang and Wang, Liwei and Luo, Jiebo},
+  booktitle=iccv,
+  year={2021}
+}
+
+@InProceedings{zhang2021video,
+  selected={true},
+  abbr={NAACL},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2104.04369.pdf},
+  code={https://github.com/Sy-Zhang/MMC-PCFG},
+  media={https://mp.weixin.qq.com/s/bzh7lbcEzfwzRsDmOA1GsQ},
+  preview={naacl-21.webp},
+  author = {Zhang, Songyang and Song, Linfeng and Jin, Lifeng and Xu, Kun and Yu, Dong and Luo, Jiebo},
+  title = {Video-aided Unsupervised Grammar Induction},
+  booktitle = naacl,
+  year = {2021}
+}
+
+@InProceedings{xiao2021boundary,
+  selected={false},
+  abbr={AAAI},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2103.08109.pdf},
+  preview={aaai-21.jpg},
+  title={Boundary Proposal Network for Two-Stage Natural Language Video Localization},
+  author={Xiao, Shaoning and Chen, Long and Zhang, Songyang and Ji, Wei and Shao, Jian and Ye, Lu and Xiao, Jun},
+  booktitle=aaai,
+  year={2021}
+}
+
+@InProceedings{sun2020content,
+  selected={false},
+  abbr={BD},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2011.01414.pdf},
+  preview={bd-20.jpg},
+  title={Content-based Analysis of the Cultural Differences between TikTok and Douyin},
+  author={Sun, Li and Zhang, Haoqi and Zhang, Songyang and Luo, Jiebo},
+  booktitle=bd,
+  year={2020}
+}
+
+@InProceedings{an2020global,
+  selected={false},
+  abbr={ICPR},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2006.11989.pdf},
+  preview={icpr-20.jpg},
+  media={https://www.jiqizhixin.com/articles/2020-11-09-4},
+  title={Global Image Sentiment Transfer},
+  author={An, Jie and Chen, Tianlang and Zhang, Songyang and Luo, Jiebo},
+  booktitle=icpr,
+  year={2020}
+}
+
+@InProceedings{zhang2021mi,
+  selected={false},
+  abbr={BD},
+  bibtex_show={true},
+  preview={bd-21.jpg},
+  pdf={https://arxiv.org/pdf/2002.00842.pdf},
+  title={Mi YouTube es Su YouTube? Analyzing the Cultures using YouTube Thumbnails of Popular Videos},
+  author={Zhang, Songyang and Aktas, Tolga and Luo, Jiebo},
+  booktitle=bd,
+  year={2021}
+}
+
+@article{zhang2020multi,
+  selected={true},
+  abbr={TPAMI},
+  bibtex_show={true},
+  preview={tpami-21.jpg},
+  pdf={https://arxiv.org/pdf/2012.02646.pdf},
+  code={https://github.com/microsoft/VideoX},
+  title={Multi-Scale 2D Temporal Adjacency Networks for Moment Localization with Natural Language},
+  author={Zhang, Songyang and Peng, Houwen and Fu, Jianlong and Lu, Yijuan and Luo, Jiebo},
+  journal=tpami,
+  year={2021}
+}
+
+@article{zhang2019learning,
+  selected={false},
+  abbr={Report},
+  bibtex_show={false},
+  preview={hacs-19.jpg},
+  pdf={https://arxiv.org/pdf/1912.03612.pdf},
+  website={http://hacs.csail.mit.edu/challenge2019.html},
+  title={Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization},
+  author={Zhang, Songyang and Peng, Houwen and Yang, Le and Fu, Jianlong and Luo, Jiebo},
+  journal={Technical Report, HACS Temporal Action Localization Challenge at ICCV},
+  year={2019}
+}
+
+@InProceedings{zhang2020learning,
+  selected={true},
+  abbr={AAAI},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/1912.03590.pdf},
+  code={https://github.com/microsoft/VideoX},
+  media={https://zhuanlan.zhihu.com/p/269968876},
+  preview={aaai-20.jpg},
+author = {Zhang, Songyang and Peng, Houwen and Fu, Jianlong and Luo, Jiebo},
+title = {Learning 2D Temporal Adjacent Networks forMoment Localization with Natural Language},
+booktitle = aaai,
+year = {2020}
+}
+
+@inproceedings{zhang2019exploiting,
+  selected={true},
+  abbr={ACMMM},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/1908.03846.pdf},
+  code={https://github.com/Sy-Zhang/TCMN-Release},
+  preview={acmmm-19.jpg},
+  title={Exploiting temporal relationships in video moment localization with natural language},
+  author={Zhang, Songyang and Su, Jinsong and Luo, Jiebo},
+  booktitle=acmmm,
+  year={2019}
+}
+
+@article{feng2019explorations,
+  selected={false},
+  abbr={MTAP},
+  bibtex_show={true},
+  pdf={https://link.springer.com/article/10.1007/s11042-017-5290-9},
+  title={Explorations of skeleton features for LSTM-based action recognition},
+  author={Feng, Jiageng and Zhang, Songyang and Xiao, Jun},
+  journal=mtap,
+  year={2019},
+}
+
+@article{zhang2018fusing,
+  selected={true},
+  abbr={TMM},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/abstract/document/8281637},
+  preview={tmm-18.jpg},
+  title={Fusing Geometric Features for Skeleton-Based Action Recognition Using Multilayer LSTM Networks},
+  author={Zhang, Songyang and Yang, Yang and Xiao, Jun and Liu, Xiaoming and Yang, Yi and Xie, Di and Zhuang, Yueting},
+  journal=tmm,
+  year={2018},
+}
+
+@inproceedings{zhang2017geometric,
+  selected={true},
+  abbr={WACV},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/document/7926607},
+  code={https://github.com/Sy-Zhang/Geometric-Feature-Release},
+  preview={wacv-17.png},
+  title={On Geometric Features for Skeleton-Based Action Recognition Using Multilayer LSTM Networks},
+  author={Zhang, Songyang and Liu, Xiaoming and Xiao, Jun},
+  booktitle=wacv,
+  year={2017},
 }
