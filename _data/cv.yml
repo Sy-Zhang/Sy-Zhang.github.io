@@ -2,54 +2,65 @@
   type: time_table
   contents:
     - title: PhD in Computer Science
-      institution: University of Rochester, New York, United States
-      year: Aug 2018 - Now
+      institution: University of Rochester, Rochester, NY, United States
+      year: Aug 2018 - Present
       description:
         - Advised by <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
 
     - title: Master in Computer Science
-      institution: Zhejiang University, Zhejiang, China
+      institution: Zhejiang University, Hangzhou, Zhejiang, China
       year: Sep 2015 - Mar 2018
       description:
         - Advised by <a href="https://person.zju.edu.cn/en/junx">Jun Xiao</a>.
 
     - title: Bachelor in Computer Science
-      institution: Southeast University, Jiangsu, China
+      institution: Southeast University, Nanjing, Jiangsu, China
       year: Aug 2011 - Jun 2015
 
-- title: Internship
+- title: Experience
   type: time_table
   contents:
-    - title: Applied Scientist
-      logo: amazon.png
-      institution: Amazon, Santa Clara, CA
-      year: Jul 2023 - Present
-      description:
-        - <span>Projects:</span> </span> <a href="https://aws.amazon.com/bedrock/">Amazon Bedrock</a>, <a href="https://aws.amazon.com/ai/generative-ai/nova/">Amazon Nova</a>
-
     - title: Research Intern
-      logo: meta.png
       institution: Facebook AI Research (FAIR), Menlo Park, CA
       year: Jan 2022 - Aug 2022
       description:
-        - <span>Mentor:</span> <a href="https://xiyinmsu.github.io/">Xi Yin</a>
-        - <span>Topic:</span> Text To Video Generation
+        - <a>Mentor:</a> <a href="https://xiyinmsu.github.io/">Xi Yin</a>
+        - <a>Topic:</a> Text To Video Generation
 
     - title: Research Intern
       institution: Tencent AI Lab, Bellevue, WA
-      logo: tencent-ai-lab.png
       year: Sep 2021 - Dec 2021
       description:
-        - <span>Mentor:</span> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
-        - <span>Topic:</span> Unsupervised Grammar Induction
+        - <a>Mentor:</a> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
+        - <a>Topic:</a> Unsupervised Grammar Induction
 
     - title: Research Intern
       institution: Microsoft, Redmond, WA
-      logo: microsoft.png
       year: May 2021 - Aug 2021
       description:
-        - <span>Mentor:</span> <a href="https://qzyou.github.io/">Quanzeng You</a> and <a href="http://wangjiangb.github.io/">Jiang Wang</a>
-        - <span>Topic:</span> Moment Localization with Natural Language
+        - <a>Mentor:</a> <a href="https://qzyou.github.io/">Quanzeng You</a> and <a href="http://wangjiangb.github.io/">Jiang Wang</a>
+        - <a>Topic:</a> Moment Localization with Natural Language
+
+    - title: Research Intern
+      institution: Tencent AI Lab, Bellevue, WA
+      year: May 2020 - Aug 2020
+      description:
+        - <a>Mentor:</a> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
+        - <a>Topic:</a> Unsupervised Grammar Induction
+
+    - title: Research Intern
+      institution: Microsoft Research Asia (MSRA), Beijing, China
+      year: May 2019 - Aug 2019
+      description:
+        - <a>Mentor:</a> <a href="https://houwenpeng.com/">Houwen Peng</a> and <a href="https://jianlong-fu.github.io/">Jianlong Fu</a>
+        - <a>Topic:</a> Moment Localization with Natural Language
+
+    - title: Research Intern
+      institution: Tencent AI Lab, Shenzhen, China
+      year: Mar 2018 - Aug 2018
+      description:
+        - <a>Mentor:</a> <a href="http://forestlinma.com/">Lin Ma</a> and <a href="https://linchaobao.github.io/">Linchao Bao</a>
+        - <a>Topic:</a> Temporal Action Localization
 
 - title: Honors and Awards
   type: time_table
@@ -69,6 +80,6 @@
 - title: Services
   type: list
   contents:
-    - <strong>Journal Reviewer:</strong> TPAMI'18, TII'19, TMM'20, NEUCOM'20, TIP'20, TCSVT'21, TMM'21, IJCV'22
-    - <strong>Conference Reviewer:</strong> ICIG'21, ACMMM'21, CVPR'22, BMVC'22, ACMMM'22, ACL'22, NeuIPS'23
+    - <strong>Journal Reviewer:</strong> TPAMI, IJCV, TMM, TIP, Neural Computing
+    - <strong>Conference Reviewer:</strong> ACMMM (2021-2022)
 
