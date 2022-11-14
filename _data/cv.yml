@@ -2,200 +2,84 @@
   type: time_table
   contents:
     - title: PhD in Computer Science
-      institution: University of Rochester, New York, United States
-      year: Aug 2018 - Now
+      institution: University of Rochester, Rochester, NY, United States
+      year: Aug 2018 - Present
       description:
         - Advised by <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
 
     - title: Master in Computer Science
-      institution: Zhejiang University, Zhejiang, China
+      institution: Zhejiang University, Hangzhou, Zhejiang, China
       year: Sep 2015 - Mar 2018
       description:
         - Advised by <a href="https://person.zju.edu.cn/en/junx">Jun Xiao</a>.
 
     - title: Bachelor in Computer Science
-      institution: Southeast University, Jiangsu, China
+      institution: Southeast University, Nanjing, Jiangsu, China
       year: Aug 2011 - Jun 2015
 
-- title: Internship
+- title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Facebook AI Research (FAIR), Menlo Park, CA
+      year: Jan 2022 - Aug 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <a>Mentor:</a> <a href="https://xiyinmsu.github.io/">Xi Yin</a>
+        - <a>Topic:</a> Text To Video Generation
+
+    - title: Research Intern
+      institution: Tencent AI Lab, Bellevue, WA
+      year: Sep 2021 - Dec 2021
       description:
-        - Description 1.
-        - Description 2.
+        - <a>Mentor:</a> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
+        - <a>Topic:</a> Unsupervised Grammar Induction
 
-  sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+    - title: Research Intern
+      institution: Microsoft, Redmond, WA
+      year: May 2021 - Aug 2021
+      description:
+        - <a>Mentor:</a> <a href="https://qzyou.github.io/">Quanzeng You</a> and <a href="http://wangjiangb.github.io/">Jiang Wang</a>
+        - <a>Topic:</a> Moment Localization with Natural Language
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+    - title: Research Intern
+      institution: Tencent AI Lab, Bellevue, WA
+      year: May 2020 - Aug 2020
+      description:
+        - <a>Mentor:</a> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
+        - <a>Topic:</a> Unsupervised Grammar Induction
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+    - title: Research Intern
+      institution: Microsoft Research Asia (MSRA), Beijing, China
+      year: May 2019 - Aug 2019
+      description:
+        - <a>Mentor:</a> <a href="https://houwenpeng.com/">Houwen Peng</a> and <a href="https://jianlong-fu.github.io/">Jianlong Fu</a>
+        - <a>Topic:</a> Moment Localization with Natural Language
+
+    - title: Research Intern
+      institution: Tencent AI Lab, Shenzhen, China
+      year: Mar 2018 - Aug 2018
+      description:
+        - <a>Mentor:</a> <a href="http://forestlinma.com/">Lin Ma</a> and <a href="https://linchaobao.github.io/">Linchao Bao</a>
+        - <a>Topic:</a> Temporal Action Localization
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://2021.naacl.org/blog/best-paper-awards/">NAACL 2021 Best Long Paper Award</a>
+    - year: 2019
       items:
-        - Max Planck Medal
+        - <a href="http://hacs.csail.mit.edu/challenge2019.html">Winner, HACS Temporal Action Localization Challenge at ICCV 2019</a>
+        - Student Travel Award at ACM Multimedia 2019
+    - year: 2014
+      items:
+        - Winner, RoboCup China Open 2014 Competition
+        - Rank 5-8, Robocup 2014 Competition, Brazil
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+- title: Services
+  type: list
+  contents:
+    - <strong>Journal Reviewer:</strong> TPAMI, IJCV, TMM, TIP, Neural Computing
+    - <strong>Conference Reviewer:</strong> ACMMM (2021-2022)
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
