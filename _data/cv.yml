@@ -3,25 +3,28 @@
   contents:
     - title: PhD in Computer Science
       institution: University of Rochester, Rochester, NY, United States
+      logo: UR.webp
       year: Aug 2018 - Present
       description:
         - Advised by <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
 
     - title: Master in Computer Science
       institution: Zhejiang University, Hangzhou, Zhejiang, China
+      logo: ZJU.png
       year: Sep 2015 - Mar 2018
       description:
         - Advised by <a href="https://person.zju.edu.cn/en/junx">Jun Xiao</a>.
 
     - title: Bachelor in Computer Science
       institution: Southeast University, Nanjing, Jiangsu, China
+      logo: SEU.png
       year: Aug 2011 - Jun 2015
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Intern
-      preview: meta.png
+      logo: meta.png
       institution: Facebook AI Research (FAIR), Menlo Park, CA
       year: Jan 2022 - Aug 2022
       description:
@@ -30,6 +33,7 @@
 
     - title: Research Intern
       institution: Tencent AI Lab, Bellevue, WA
+      logo: tencent-ai-lab.png
       year: Sep 2021 - Dec 2021
       description:
         - <a>Mentor:</a> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
@@ -37,6 +41,7 @@
 
     - title: Research Intern
       institution: Microsoft, Redmond, WA
+      logo: microsoft.png
       year: May 2021 - Aug 2021
       description:
         - <a>Mentor:</a> <a href="https://qzyou.github.io/">Quanzeng You</a> and <a href="http://wangjiangb.github.io/">Jiang Wang</a>
@@ -44,6 +49,7 @@
 
     - title: Research Intern
       institution: Tencent AI Lab, Bellevue, WA
+      logo: tencent-ai-lab.png
       year: May 2020 - Aug 2020
       description:
         - <a>Mentor:</a> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
@@ -51,6 +57,7 @@
 
     - title: Research Intern
       institution: Microsoft Research Asia (MSRA), Beijing, China
+      logo: microsoft.png
       year: May 2019 - Aug 2019
       description:
         - <a>Mentor:</a> <a href="https://houwenpeng.com/">Houwen Peng</a> and <a href="https://jianlong-fu.github.io/">Jianlong Fu</a>
@@ -58,6 +65,7 @@
 
     - title: Research Intern
       institution: Tencent AI Lab, Shenzhen, China
+      logo: tencent-ai-lab.png
       year: Mar 2018 - Aug 2018
       description:
         - <a>Mentor:</a> <a href="http://forestlinma.com/">Lin Ma</a> and <a href="https://linchaobao.github.io/">Linchao Bao</a>
