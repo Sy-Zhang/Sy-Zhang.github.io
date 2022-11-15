@@ -1,21 +1,100 @@
-# "Liu":
-#   - firstname: ["Xiaoming"]
-#     url: https://www.cse.msu.edu/~liuxm/index2.html
+"An":
+  - firstname: [Jie]
+    url: https://www.cs.rochester.edu/u/jan6/
 
-# "Xiao":
-#   - firstname: ["Jun"]
-#     url: https://person.zju.edu.cn/junx
+"Chen":
+  - firstname: [Long]
+    url: https://zjuchenlong.github.io/
+  
+  - firstname: [Tianlang]
+    url: https://sunnychencool.github.io/tianlangchen.github.io/
 
-# "Yang":
-#   - firstname: ["Yang"]
-#     url: http://yangy.org/
+"Fu":
+  - firstname: ["Jianlong"]
+    url: https://jianlong-fu.github.io/
 
-#   - firstname: ["Yi"]
-#     url: https://profiles.uts.edu.au/Yi.Yang
+"Ge":
+  - firstname: [Songwei]
+    url: https://songweige.github.io/
 
-#   - firstname: ["Zhengyuan"]
-#     url: https://zyang-ur.github.io/
+"Hu":
+  - firstname: [Qiyuan]
+    url: https://isabellehu.github.io/
 
-# "Yin":
-#   - firstname: ["Xi"]
-#     url: https://xiyinmsu.github.io/
+"Ji":
+  - firstname: [Wei]
+    url: https://jiwei0523.github.io/
+
+"Jin":
+  - firstname: [Lifeng]
+    url: https://lifengjin.github.io/
+
+"Ling":
+  - firstname: [Haibin]
+    url: https://www3.cs.stonybrook.edu/~hling/
+
+"Liu":
+  - firstname: ["Xiaoming"]
+    url: https://www.cse.msu.edu/~liuxm/index2.html
+
+"Luo":
+  - firstname: ["Jiebo"]
+    url: https://www.cs.rochester.edu/u/jluo/
+
+"Meng":
+  - firstname: ["Gaofeng"]
+    url: https://people.ucas.edu.cn/~gfmeng
+
+"Parikh":
+  - firstname: [Devi]
+    url: https://faculty.cc.gatech.edu/~parikh/
+
+"Peng":
+  - firstname: ["Houwen"]
+    url: https://houwenpeng.com/
+
+"Song":
+  - firstname: ["Linfeng"]
+    url: https://freesunshine0316.github.io/
+
+"Su":
+  - firstname: ["Jinsong"]
+    url: https://cdmc.xmu.edu.cn/en/info/1010/1008.htm
+
+"Taigman":
+  - firstname: [Yaniv]
+    url: https://ytaigman.github.io/
+
+"Wang":
+  - firstname: ["Liwei"]
+    url: https://lwwangcse.github.io/
+
+"Xiao":
+  - firstname: ["Jun"]
+    url: https://person.zju.edu.cn/junx
+
+"Xiang":
+  - firstname: ["Shiming"]
+    url: https://sites.google.com/site/smxiang/
+
+"Xu":
+  - firstname: ["Kun"]
+    url: https://sites.google.com/view/kunxu/home
+
+"Yang":
+  - firstname: ["Yang"]
+    url: http://yangy.org/
+
+  - firstname: ["Yi"]
+    url: https://profiles.uts.edu.au/Yi.Yang
+
+  - firstname: ["Zhengyuan"]
+    url: https://zyang-ur.github.io/
+
+"Yin":
+  - firstname: ["Xi"]
+    url: https://xiyinmsu.github.io/
+
+"Yu":
+  - firstname: ["Dong"]
+    url: https://sites.google.com/view/dongyu888/
