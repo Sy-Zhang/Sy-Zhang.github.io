@@ -24,4 +24,5 @@ I am Songyang Zhang (张宋扬 - in Chinese). Currently I'm a fifth-year PhD can
 
 **Email**: szhang83 AT ur DOT rochester DOT edu
 
-\[**[Resume](assets/pdf/SongyangZhang_CV.pdf)**\] \[**[Wechat](assets/img/wechat.jpg)**\]
+\[**[Resume](assets/pdf/SongyangZhang_CV.pdf)**\] 
+<!-- \[**[Wechat](assets/img/wechat.jpg)**\] -->
