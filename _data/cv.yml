@@ -21,6 +21,7 @@
   type: time_table
   contents:
     - title: Research Intern
+      preview: meta.png
       institution: Facebook AI Research (FAIR), Menlo Park, CA
       year: Jan 2022 - Aug 2022
       description:
