@@ -125,7 +125,27 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+
+        <div class="links">
+          {%- if entry.abbr -%}
+            {%- if site.data.venues[entry.abbr] -%}
+              {%- assign venue_style = nil -%}
+              {%- if site.data.venues[entry.abbr].color != blank -%}
+                {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
+              {%- endif -%}
+              <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+            {%- else -%}
+              <abbr class="badge" style="background-color:#58D68D"><strong>{{entry.abbr}}</strong></abbr>
+            {%- endif -%}
+          {%- endif -%}
+
+          {%- if entry.oral -%}
+            <abbr class="badge" style="background-color:#AF7AC5;"><strong>Oral</strong></abbr>
+          {%- elsif entry.award -%}
+            <abbr class="badge" style="background-color:#f4722b;"><strong>{{entry.award}}</strong></abbr>
+          {%- endif -%}
+        </div>
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
@@ -176,6 +196,9 @@
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          {%- if entry.video %}
+            <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
           {%- endif %}
           {%- if entry.media %}
             <a href="{{ entry.media }}" class="btn btn-sm z-depth-0" role="button">Media</a>
