@@ -64,7 +64,7 @@
               <strong>{{author.first}} {{author.last}}</strong>
             {%- else -%}
               {%- if coauthor_url -%}
-                <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                <a href="{{coauthor_url}}" style="color:black">{{author.first}} {{author.last}}</a>
               {%- else -%}
                 {{author.first}} {{author.last}}
               {%- endif -%}
