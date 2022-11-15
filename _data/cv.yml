@@ -6,14 +6,14 @@
       logo: UR.webp
       year: Aug 2018 - Present
       description:
-        - Advised by <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
+        - <span>Advisor:</span> <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
 
     - title: Master in Computer Science
       institution: Zhejiang University, Hangzhou, Zhejiang, China
       logo: ZJU.png
       year: Sep 2015 - Mar 2018
       description:
-        - Advised by <a href="https://person.zju.edu.cn/en/junx">Jun Xiao</a>.
+        - <span>Advisor:</span> <a href="https://person.zju.edu.cn/en/junx">Jun Xiao</a>.
 
     - title: Bachelor in Computer Science
       institution: Southeast University, Nanjing, Jiangsu, China
@@ -28,48 +28,48 @@
       institution: Facebook AI Research (FAIR), Menlo Park, CA
       year: Jan 2022 - Aug 2022
       description:
-        - <a>Mentor:</a> <a href="https://xiyinmsu.github.io/">Xi Yin</a>
-        - <a>Topic:</a> Text To Video Generation
+        - <span>Mentor:</span> <a href="https://xiyinmsu.github.io/">Xi Yin</a>
+        - <span>Topic:</span> Text To Video Generation
 
     - title: Research Intern
       institution: Tencent AI Lab, Bellevue, WA
       logo: tencent-ai-lab.png
       year: Sep 2021 - Dec 2021
       description:
-        - <a>Mentor:</a> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
-        - <a>Topic:</a> Unsupervised Grammar Induction
+        - <span>Mentor:</span> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
+        - <span>Topic:</span> Unsupervised Grammar Induction
 
     - title: Research Intern
       institution: Microsoft, Redmond, WA
       logo: microsoft.png
       year: May 2021 - Aug 2021
       description:
-        - <a>Mentor:</a> <a href="https://qzyou.github.io/">Quanzeng You</a> and <a href="http://wangjiangb.github.io/">Jiang Wang</a>
-        - <a>Topic:</a> Moment Localization with Natural Language
+        - <span>Mentor:</span> <a href="https://qzyou.github.io/">Quanzeng You</a> and <a href="http://wangjiangb.github.io/">Jiang Wang</a>
+        - <span>Topic:</span> Moment Localization with Natural Language
 
     - title: Research Intern
       institution: Tencent AI Lab, Bellevue, WA
       logo: tencent-ai-lab.png
       year: May 2020 - Aug 2020
       description:
-        - <a>Mentor:</a> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
-        - <a>Topic:</a> Unsupervised Grammar Induction
+        - <span>Mentor:</span> <a href="https://freesunshine0316.github.io/">Linfeng Song</a>, <a href="https://lifengjin.github.io/">Lifeng Jin</a> and <a href="https://sites.google.com/view/kunxu/home">Kun Xu</a>
+        - <span>Topic:</span> Unsupervised Grammar Induction
 
     - title: Research Intern
       institution: Microsoft Research Asia (MSRA), Beijing, China
       logo: microsoft.png
       year: May 2019 - Aug 2019
       description:
-        - <a>Mentor:</a> <a href="https://houwenpeng.com/">Houwen Peng</a> and <a href="https://jianlong-fu.github.io/">Jianlong Fu</a>
-        - <a>Topic:</a> Moment Localization with Natural Language
+        - <span>Mentor:</span> <a href="https://houwenpeng.com/">Houwen Peng</a> and <a href="https://jianlong-fu.github.io/">Jianlong Fu</a>
+        - <span>Topic:</span> Moment Localization with Natural Language
 
     - title: Research Intern
       institution: Tencent AI Lab, Shenzhen, China
       logo: tencent-ai-lab.png
       year: Mar 2018 - Aug 2018
       description:
-        - <a>Mentor:</a> <a href="http://forestlinma.com/">Lin Ma</a> and <a href="https://linchaobao.github.io/">Linchao Bao</a>
-        - <a>Topic:</a> Temporal Action Localization
+        - <span>Mentor:</span> <a href="http://forestlinma.com/">Lin Ma</a> and <a href="https://linchaobao.github.io/">Linchao Bao</a>
+        - <span>Topic:</span> Temporal Action Localization
 
 - title: Honors and Awards
   type: time_table
