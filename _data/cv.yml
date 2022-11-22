@@ -25,14 +25,14 @@
   contents:
     - title: Research Intern
       logo: meta.png
-      institution: Facebook AI Research (FAIR), Menlo Park, CA
+      institution: Facebook AI Research (FAIR), Remote #, Menlo Park, CA
       year: Jan 2022 - Aug 2022
       description:
         - <span>Mentor:</span> <a href="https://xiyinmsu.github.io/">Xi Yin</a>
         - <span>Topic:</span> Text To Video Generation
 
     - title: Research Intern
-      institution: Tencent AI Lab, Bellevue, WA
+      institution: Tencent AI Lab, Remote #Bellevue, WA
       logo: tencent-ai-lab.png
       year: Sep 2021 - Dec 2021
       description:
@@ -40,7 +40,7 @@
         - <span>Topic:</span> Unsupervised Grammar Induction
 
     - title: Research Intern
-      institution: Microsoft, Redmond, WA
+      institution: Microsoft, Remote #, Redmond, WA
       logo: microsoft.png
       year: May 2021 - Aug 2021
       description:
@@ -48,7 +48,7 @@
         - <span>Topic:</span> Moment Localization with Natural Language
 
     - title: Research Intern
-      institution: Tencent AI Lab, Bellevue, WA
+      institution: Tencent AI Lab, Remote #, Bellevue, WA
       logo: tencent-ai-lab.png
       year: May 2020 - Aug 2020
       description:
