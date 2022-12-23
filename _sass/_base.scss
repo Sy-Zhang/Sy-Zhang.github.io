@@ -497,6 +497,9 @@ footer.sticky-bottom {
         width: 100%;
         min-width: 80px;
         max-width: 200px;
+        &:hover {
+            transform: scale(1.03);
+        }
       }
       .abbr {
         height: 2rem;
