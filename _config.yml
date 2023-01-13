@@ -66,7 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: sy-zhang # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: zhangsongyang # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: songyang-zhang # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -77,7 +77,7 @@ orcid_id: 0000-0003-4316-3320 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Songyang-Zhang-3 # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
