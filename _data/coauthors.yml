@@ -66,9 +66,17 @@
     url: https://cdmc.xmu.edu.cn/en/info/1010/1008.htm
 
 "Taigman":
-  - firstname: [Yaniv]
+  - firstname: ["Yaniv"]
     url: https://ytaigman.github.io/
 
+"Tian":
+  - firstname: ["Yapeng"]
+    url: http://www.yapengtian.com/
+
+"Vosoughi":
+  - firstname: ["Ali"]
+    url: https://alivosoughi.com/
+    
 "Wang":
   - firstname: ["Liwei"]
     url: https://lwwangcse.github.io/
@@ -84,6 +92,8 @@
 "Xu":
   - firstname: ["Kun"]
     url: https://sites.google.com/view/kunxu/home
+  - firstname: ["Chenliang"]
+    url: https://www.cs.rochester.edu/~cxu22/
 
 "Yang":
   - firstname: ["Yang"]
