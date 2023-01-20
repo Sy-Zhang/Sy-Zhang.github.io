@@ -8,7 +8,7 @@ middle_name:
 last_name: Zhang
 email: szhang83@ur.rochester.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Songyang Zhang's Homepage. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Songyang Zhang's Homepage.
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
