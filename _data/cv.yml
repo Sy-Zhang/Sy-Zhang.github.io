@@ -89,6 +89,6 @@
 - title: Services
   type: list
   contents:
-    - <strong>Journal Reviewer:</strong> TPAMI, IJCV, TMM, TIP, Neural Computing
-    - <strong>Conference Reviewer:</strong> ACMMM (2021-2022)
+    - <strong>Journal Reviewer:</strong> TPAMI'18, TII'19, TMM'20, NEUCOM'20, TIP'20, TCSVT'21, TMM'21, IJCV'22
+    - <strong>Conference Reviewer:</strong> ICIG'21, ACMMM'21, CVPR'22, BMVC'22, ACMMM'22, ACL'22
 
