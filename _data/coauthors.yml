@@ -5,12 +5,15 @@
 "Chen":
   - firstname: [Long]
     url: https://zjuchenlong.github.io/
-  
+
+  - firstname: [Minghao]
+    url: https://silent-chen.github.io
+
   - firstname: [Tianlang]
     url: https://sunnychencool.github.io/tianlangchen.github.io/
 
 "Fu":
-  - firstname: ["Jianlong"]
+  - firstname: [Jianlong]
     url: https://jianlong-fu.github.io/
 
 "Ge":
@@ -38,15 +41,15 @@
     url: https://www3.cs.stonybrook.edu/~hling/
 
 "Liu":
-  - firstname: ["Xiaoming"]
+  - firstname: [Xiaoming]
     url: https://www.cse.msu.edu/~liuxm/index2.html
 
 "Luo":
-  - firstname: ["Jiebo"]
+  - firstname: [Jiebo]
     url: https://www.cs.rochester.edu/u/jluo/
 
 "Meng":
-  - firstname: ["Gaofeng"]
+  - firstname: [Gaofeng]
     url: https://people.ucas.edu.cn/~gfmeng
 
 "Parikh":
@@ -54,7 +57,7 @@
     url: https://faculty.cc.gatech.edu/~parikh/
 
 "Peng":
-  - firstname: ["Houwen"]
+  - firstname: [Houwen]
     url: https://houwenpeng.com/
 
 "Song":
@@ -96,6 +99,9 @@
     url: https://www.cs.rochester.edu/~cxu22/
 
 "Yang":
+  - firstname: ["Harry"]
+    url: https://leehomyc.github.io
+
   - firstname: ["Yang"]
     url: http://yangy.org/
 
