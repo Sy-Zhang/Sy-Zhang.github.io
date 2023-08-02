@@ -23,6 +23,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist
+      logo: aws.png
+      institution: AWS AI Labs, Santa Clara, CA
+      year: Jul 2023 - Now
+      description:
+        - <span>Project:</span> [Amazon Bedrock](https://aws.amazon.com/bedrock/)
+
     - title: Research Intern
       logo: meta.png
       institution: Facebook AI Research (FAIR), Remote #, Menlo Park, CA
