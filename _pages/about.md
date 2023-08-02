@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Applied Scientist at <a href='https://aws.amazon.com/rekognition/'>Amazon Web Services</a>
+subtitle: Applied Scientist at <a href='https://aws.amazon.com/generative-ai/'>Amazon Web Services</a>
 
 profile:
   align: right
