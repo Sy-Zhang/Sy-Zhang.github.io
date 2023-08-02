@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at <a href='https://www.rochester.edu/'>University of Rochester</a>
+subtitle: Applied Scientist at <a href='https://aws.amazon.com/rekognition/'>Amazon Web Services</a>
 
 profile:
   align: right
