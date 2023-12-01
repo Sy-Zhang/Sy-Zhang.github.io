@@ -24,8 +24,8 @@
   type: time_table
   contents:
     - title: Applied Scientist
-      logo: aws.jpg
-      institution: AWS AI Labs, Santa Clara, CA
+      logo: amazon.png
+      institution: Amazon, Santa Clara, CA
       year: Jul 2023 - Present
       description:
         - <span>Project:</span> </span> <a href="https://aws.amazon.com/bedrock/">Amazon Bedrock</a>
