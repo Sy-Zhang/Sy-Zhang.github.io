@@ -4,7 +4,7 @@
     - title: PhD in Computer Science
       institution: University of Rochester, Rochester, NY, United States
       logo: UR.webp
-      year: Aug 2018 - Present
+      year: Aug 2018 - Jun 2023
       description:
         - <span>Advisor:</span> <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>.
 
@@ -28,7 +28,7 @@
       institution: Amazon, Santa Clara, CA
       year: Jul 2023 - Present
       description:
-        - <span>Project:</span> </span> <a href="https://aws.amazon.com/bedrock/">Amazon Bedrock</a>
+        - <span>Projects:</span> </span> <a href="https://aws.amazon.com/bedrock/">Amazon Bedrock</a>, <a href="https://aws.amazon.com/ai/generative-ai/nova/">Amazon Nova</a>
 
     - title: Research Intern
       logo: meta.png
