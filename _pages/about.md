@@ -23,3 +23,31 @@ I am Songyang Zhang (<span lang="ch" style="font-family:system-ui;">张宋扬</s
 
 \[**[Resume](assets/pdf/SongyangZhang_CV.pdf)**\]
 <!-- \[**[Wechat](assets/img/wechat.jpg)**\] -->
+
+<style>
+  .publications ol.bibliography li .links a.award.btn {
+    display: none;
+  }
+
+  .publications ol.bibliography div.award.hidden {
+    max-height: none;
+    overflow: visible;
+    margin: 0.45rem 0 0.25rem;
+    padding: 0.35rem 0.55rem;
+    border: 1px solid var(--global-divider-color);
+    border-left: 3px solid var(--global-theme-color);
+    border-radius: 0.25rem;
+    background: color-mix(in srgb, var(--global-theme-color) 6%, transparent);
+    text-align: left;
+  }
+
+  .publications ol.bibliography div.award.hidden p {
+    display: inline;
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  .publications ol.bibliography div.award.hidden p:empty {
+    display: none;
+  }
+</style>
