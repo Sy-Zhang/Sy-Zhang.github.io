@@ -21,5 +21,5 @@ I am Songyang Zhang (<span lang="ch" style="font-family:system-ui;">张宋扬</s
 
 [//]: # (**Email**: zhangsongyang000 AT gmail DOT com)
 
-\[**[Resume](assets/pdf/SongyangZhang_CV.pdf)**\] 
+\[**[Resume](assets/pdf/SongyangZhang_CV.pdf)**\]
 <!-- \[**[Wechat](assets/img/wechat.jpg)**\] -->
