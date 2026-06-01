@@ -11,3 +11,74 @@ github_repos:
   - Sy-Zhang/TCMN-Release
   - Sy-Zhang/Geometric-Feature-Release
   - Sy-Zhang/LIME
+
+featured_repos:
+  - name: PTC-PCFG
+    owner: Sy-Zhang
+    url: https://github.com/Sy-Zhang/PTC-PCFG
+    description: Code for the EMNLP 2022 paper "Learning a Grammar Inducer by Watching Millions of Instructional YouTube Videos."
+    language: Python
+    venue: EMNLP 2022
+    tags:
+      - grammar induction
+      - instructional video
+
+  - name: MUGEN Baseline
+    owner: mugen-org
+    url: https://github.com/mugen-org/MUGEN_baseline
+    description: Training, evaluation, and inference code for multimodal video-audio-text generation and retrieval baselines on MUGEN.
+    language: Python
+    venue: ECCV 2022
+    tags:
+      - multimodal generation
+      - retrieval
+
+  - name: MMC-PCFG
+    owner: Sy-Zhang
+    url: https://github.com/Sy-Zhang/MMC-PCFG
+    description: Video-aided unsupervised grammar induction, awarded NAACL 2021 Best Long Paper.
+    language: Python
+    venue: NAACL 2021
+    tags:
+      - grammar induction
+      - best paper
+
+  - name: VideoX
+    owner: microsoft
+    url: https://github.com/microsoft/VideoX
+    description: A collection of video cross-modal models, including code for expanding language-image pretrained models to video.
+    language: Python
+    venue: ECCV 2022
+    tags:
+      - video recognition
+      - cross-modal learning
+
+  - name: TCMN Release
+    owner: Sy-Zhang
+    url: https://github.com/Sy-Zhang/TCMN-Release
+    description: Code for the ACM MM 2019 paper "Exploiting Temporal Relationships in Video Moment Localization with Natural Language."
+    language: Python
+    venue: ACM MM 2019
+    tags:
+      - moment localization
+      - video-language
+
+  - name: Geometric Feature Release
+    owner: Sy-Zhang
+    url: https://github.com/Sy-Zhang/Geometric-Feature-Release
+    description: Code for the WACV 2017 paper "On Geometric Features for Skeleton-Based Action Recognition Using Multilayer LSTM Networks."
+    language: Lua
+    venue: WACV 2017
+    tags:
+      - action recognition
+      - skeleton features
+
+  - name: LIME
+    owner: Sy-Zhang
+    url: https://github.com/Sy-Zhang/LIME
+    description: 'Reimplementation of "LIME: A Method for Low-light Image Enhancement" from ACM MM 2016.'
+    language: MATLAB
+    venue: ACM MM 2016
+    tags:
+      - image enhancement
+      - low-light imaging
