@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-24'
 papers:
   80LwB0cAAAAJ:-fj4grS0xi0C:
     citations: 56
@@ -10,7 +10,7 @@ papers:
     title: Video-aided unsupervised grammar induction
     year: '2021'
   80LwB0cAAAAJ:7PzlFSSx8tAC:
-    citations: 173
+    citations: 174
     title: 'Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation'
     year: '2023'
   80LwB0cAAAAJ:8k81kl-MbHgC:
@@ -30,7 +30,7 @@ papers:
     title: Exploiting temporal relationships in video moment localization with natural language
     year: '2019'
   80LwB0cAAAAJ:KlAtU1dfN6UC:
-    citations: 164
+    citations: 165
     title: 'The devil is in the labels: Noisy label correction for robust scene graph generation'
     year: '2022'
   80LwB0cAAAAJ:MXK_kJrjxJIC:
@@ -50,7 +50,7 @@ papers:
     title: Rethinking the Evaluation of Unbiased Scene Graph Generation
     year: '2022'
   80LwB0cAAAAJ:UebtZRa9Y70C:
-    citations: 224
+    citations: 225
     title: Boundary proposal network for two-stage natural language video localization
     year: '2021'
   80LwB0cAAAAJ:W7OEmFMy1HYC:
@@ -58,7 +58,7 @@ papers:
     title: Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization
     year: '2019'
   80LwB0cAAAAJ:YOwf2qJgpHMC:
-    citations: 2305
+    citations: 2311
     title: 'Make-a-video: Text-to-video generation without text-video data'
     year: '2022'
   80LwB0cAAAAJ:YsMSGLbcyi4C:
@@ -66,7 +66,7 @@ papers:
     title: Mi YouTube es Su YouTube? Analyzing the Cultures using YouTube Thumbnails of Popular Videos
     year: '2020'
   80LwB0cAAAAJ:Zph67rFs4hoC:
-    citations: 601
+    citations: 605
     title: Expanding language-image pretrained models for general video recognition
     year: '2022'
   80LwB0cAAAAJ:_kc_bZDykSQC:
