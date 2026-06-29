@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   80LwB0cAAAAJ:-fj4grS0xi0C:
     citations: 56
@@ -42,7 +42,7 @@ papers:
     title: 'Cross modality bias in visual question answering: A causal view with possible worlds vqa'
     year: '2024'
   80LwB0cAAAAJ:Se3iqnhoufwC:
-    citations: 100
+    citations: 101
     title: Multi-scale 2d temporal adjacency networks for moment localization with natural language
     year: '2021'
   80LwB0cAAAAJ:ULOm3_A8WrAC:
@@ -50,7 +50,7 @@ papers:
     title: Rethinking the Evaluation of Unbiased Scene Graph Generation
     year: '2022'
   80LwB0cAAAAJ:UebtZRa9Y70C:
-    citations: 225
+    citations: 226
     title: Boundary proposal network for two-stage natural language video localization
     year: '2021'
   80LwB0cAAAAJ:W7OEmFMy1HYC:
@@ -58,7 +58,7 @@ papers:
     title: Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization
     year: '2019'
   80LwB0cAAAAJ:YOwf2qJgpHMC:
-    citations: 2311
+    citations: 2314
     title: 'Make-a-video: Text-to-video generation without text-video data'
     year: '2022'
   80LwB0cAAAAJ:YsMSGLbcyi4C:
@@ -66,7 +66,7 @@ papers:
     title: Mi YouTube es Su YouTube? Analyzing the Cultures using YouTube Thumbnails of Popular Videos
     year: '2020'
   80LwB0cAAAAJ:Zph67rFs4hoC:
-    citations: 605
+    citations: 609
     title: Expanding language-image pretrained models for general video recognition
     year: '2022'
   80LwB0cAAAAJ:_kc_bZDykSQC:
@@ -74,7 +74,7 @@ papers:
     title: Learning a grammar inducer from massive uncurated instructional videos
     year: '2022'
   80LwB0cAAAAJ:d1gkVwhDpl0C:
-    citations: 399
+    citations: 401
     title: On geometric features for skeleton-based action recognition using multilayer lstm networks
     year: '2017'
   80LwB0cAAAAJ:hqOjcs7Dif8C:
@@ -94,7 +94,7 @@ papers:
     title: Content-based Analysis of the Cultural Differences between TikTok and Douyin
     year: '2020'
   80LwB0cAAAAJ:zYLM7Y9cAGgC:
-    citations: 715
+    citations: 717
     title: Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language
     year: '2019'
   80LwB0cAAAAJ:za7pDTvVV8kC:
