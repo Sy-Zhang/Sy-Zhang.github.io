@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-08'
 papers:
   80LwB0cAAAAJ:-fj4grS0xi0C:
     citations: 58
@@ -58,7 +58,7 @@ papers:
     title: Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization
     year: '2019'
   80LwB0cAAAAJ:YOwf2qJgpHMC:
-    citations: 2333
+    citations: 2335
     title: 'Make-a-video: Text-to-video generation without text-video data'
     year: '2022'
   80LwB0cAAAAJ:YsMSGLbcyi4C:
@@ -66,7 +66,7 @@ papers:
     title: Mi YouTube es Su YouTube? Analyzing the Cultures using YouTube Thumbnails of Popular Videos
     year: '2020'
   80LwB0cAAAAJ:Zph67rFs4hoC:
-    citations: 621
+    citations: 624
     title: Expanding language-image pretrained models for general video recognition
     year: '2022'
   80LwB0cAAAAJ:_kc_bZDykSQC:
@@ -86,7 +86,7 @@ papers:
     title: 'Mugen: A playground for video-audio-text multimodal understanding and generation'
     year: '2022'
   80LwB0cAAAAJ:u-x6o8ySG0sC:
-    citations: 235
+    citations: 236
     title: Fusing geometric features for skeleton-based action recognition using multilayer LSTM networks
     year: '2018'
   80LwB0cAAAAJ:ufrVoPGSRksC:
