@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-20'
 papers:
   80LwB0cAAAAJ:-fj4grS0xi0C:
-    citations: 58
+    citations: 59
     title: 'The Amazon Nova family of models: Technical report and model card'
     year: '2024'
   80LwB0cAAAAJ:0EnyYjriUFMC:
@@ -10,7 +10,7 @@ papers:
     title: Video-aided unsupervised grammar induction
     year: '2021'
   80LwB0cAAAAJ:7PzlFSSx8tAC:
-    citations: 174
+    citations: 175
     title: 'Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation'
     year: '2023'
   80LwB0cAAAAJ:8k81kl-MbHgC:
@@ -38,11 +38,11 @@ papers:
     title: 'SAT: 2D Semantics Assisted Training for 3D Visual Grounding'
     year: '2021'
   80LwB0cAAAAJ:QaLwMs-zPFMC:
-    citations: 66
+    citations: 67
     title: 'Cross modality bias in visual question answering: A causal view with possible worlds vqa'
     year: '2024'
   80LwB0cAAAAJ:Se3iqnhoufwC:
-    citations: 101
+    citations: 102
     title: Multi-scale 2d temporal adjacency networks for moment localization with natural language
     year: '2021'
   80LwB0cAAAAJ:ULOm3_A8WrAC:
@@ -58,15 +58,15 @@ papers:
     title: Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization
     year: '2019'
   80LwB0cAAAAJ:YOwf2qJgpHMC:
-    citations: 2335
+    citations: 2350
     title: 'Make-a-video: Text-to-video generation without text-video data'
     year: '2022'
   80LwB0cAAAAJ:YsMSGLbcyi4C:
-    citations: 18
+    citations: 17
     title: Mi YouTube es Su YouTube? Analyzing the Cultures using YouTube Thumbnails of Popular Videos
     year: '2020'
   80LwB0cAAAAJ:Zph67rFs4hoC:
-    citations: 624
+    citations: 635
     title: Expanding language-image pretrained models for general video recognition
     year: '2022'
   80LwB0cAAAAJ:_kc_bZDykSQC:
@@ -82,7 +82,7 @@ papers:
     title: Global Image Sentiment Transfer
     year: '2021'
   80LwB0cAAAAJ:kNdYIx-mwKoC:
-    citations: 49
+    citations: 50
     title: 'Mugen: A playground for video-audio-text multimodal understanding and generation'
     year: '2022'
   80LwB0cAAAAJ:u-x6o8ySG0sC:
@@ -90,11 +90,11 @@ papers:
     title: Fusing geometric features for skeleton-based action recognition using multilayer LSTM networks
     year: '2018'
   80LwB0cAAAAJ:ufrVoPGSRksC:
-    citations: 55
+    citations: 56
     title: Content-based Analysis of the Cultural Differences between TikTok and Douyin
     year: '2020'
   80LwB0cAAAAJ:zYLM7Y9cAGgC:
-    citations: 722
+    citations: 726
     title: Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language
     year: '2019'
   80LwB0cAAAAJ:za7pDTvVV8kC:
