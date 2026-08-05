@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   80LwB0cAAAAJ:-fj4grS0xi0C:
-    citations: 59
+    citations: 67
     title: 'The Amazon Nova family of models: Technical report and model card'
     year: '2024'
   80LwB0cAAAAJ:0EnyYjriUFMC:
-    citations: 40
+    citations: 39
     title: Video-aided unsupervised grammar induction
     year: '2021'
   80LwB0cAAAAJ:7PzlFSSx8tAC:
@@ -14,7 +14,7 @@ papers:
     title: 'Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation'
     year: '2023'
   80LwB0cAAAAJ:8k81kl-MbHgC:
-    citations: 28
+    citations: 27
     title: Instance-wise or class-wise? A tale of neighbor Shapley for concept-based explanation
     year: '2021'
   80LwB0cAAAAJ:9hNLEifDsrsC:
@@ -26,19 +26,19 @@ papers:
     title: Explorations of skeleton features for LSTM-based action recognition
     year: '2019'
   80LwB0cAAAAJ:IjCSPb-OGe4C:
-    citations: 86
+    citations: 85
     title: Exploiting temporal relationships in video moment localization with natural language
     year: '2019'
   80LwB0cAAAAJ:KlAtU1dfN6UC:
-    citations: 170
+    citations: 169
     title: 'The devil is in the labels: Noisy label correction for robust scene graph generation'
     year: '2022'
   80LwB0cAAAAJ:MXK_kJrjxJIC:
-    citations: 209
+    citations: 211
     title: 'SAT: 2D Semantics Assisted Training for 3D Visual Grounding'
     year: '2021'
   80LwB0cAAAAJ:QaLwMs-zPFMC:
-    citations: 68
+    citations: 75
     title: 'Cross modality bias in visual question answering: A causal view with possible worlds vqa'
     year: '2024'
   80LwB0cAAAAJ:Se3iqnhoufwC:
@@ -50,7 +50,7 @@ papers:
     title: Rethinking the Evaluation of Unbiased Scene Graph Generation
     year: '2022'
   80LwB0cAAAAJ:UebtZRa9Y70C:
-    citations: 228
+    citations: 227
     title: Boundary proposal network for two-stage natural language video localization
     year: '2021'
   80LwB0cAAAAJ:W7OEmFMy1HYC:
@@ -58,15 +58,15 @@ papers:
     title: Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization
     year: '2019'
   80LwB0cAAAAJ:YOwf2qJgpHMC:
-    citations: 2366
+    citations: 2365
     title: 'Make-a-video: Text-to-video generation without text-video data'
     year: '2022'
   80LwB0cAAAAJ:YsMSGLbcyi4C:
-    citations: 18
+    citations: 17
     title: Mi YouTube es Su YouTube? Analyzing the Cultures using YouTube Thumbnails of Popular Videos
     year: '2020'
   80LwB0cAAAAJ:Zph67rFs4hoC:
-    citations: 637
+    citations: 636
     title: Expanding language-image pretrained models for general video recognition
     year: '2022'
   80LwB0cAAAAJ:_kc_bZDykSQC:
@@ -74,7 +74,7 @@ papers:
     title: Learning a grammar inducer from massive uncurated instructional videos
     year: '2022'
   80LwB0cAAAAJ:d1gkVwhDpl0C:
-    citations: 402
+    citations: 400
     title: On geometric features for skeleton-based action recognition using multilayer lstm networks
     year: '2017'
   80LwB0cAAAAJ:hqOjcs7Dif8C:
@@ -82,19 +82,19 @@ papers:
     title: Global Image Sentiment Transfer
     year: '2021'
   80LwB0cAAAAJ:kNdYIx-mwKoC:
-    citations: 49
+    citations: 48
     title: 'Mugen: A playground for video-audio-text multimodal understanding and generation'
     year: '2022'
   80LwB0cAAAAJ:u-x6o8ySG0sC:
-    citations: 236
+    citations: 240
     title: Fusing geometric features for skeleton-based action recognition using multilayer LSTM networks
     year: '2018'
   80LwB0cAAAAJ:ufrVoPGSRksC:
-    citations: 56
+    citations: 57
     title: Content-based Analysis of the Cultural Differences between TikTok and Douyin
     year: '2020'
   80LwB0cAAAAJ:zYLM7Y9cAGgC:
-    citations: 727
+    citations: 732
     title: Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language
     year: '2019'
   80LwB0cAAAAJ:za7pDTvVV8kC:
