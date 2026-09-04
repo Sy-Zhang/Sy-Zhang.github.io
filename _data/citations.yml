@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-04'
 papers:
   80LwB0cAAAAJ:-fj4grS0xi0C:
     citations: 69
@@ -50,7 +50,7 @@ papers:
     title: Rethinking the Evaluation of Unbiased Scene Graph Generation
     year: '2022'
   80LwB0cAAAAJ:UebtZRa9Y70C:
-    citations: 229
+    citations: 230
     title: Boundary proposal network for two-stage natural language video localization
     year: '2021'
   80LwB0cAAAAJ:W7OEmFMy1HYC:
@@ -58,7 +58,7 @@ papers:
     title: Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization
     year: '2019'
   80LwB0cAAAAJ:YOwf2qJgpHMC:
-    citations: 2414
+    citations: 2416
     title: 'Make-a-video: Text-to-video generation without text-video data'
     year: '2022'
   80LwB0cAAAAJ:YsMSGLbcyi4C:
@@ -66,7 +66,7 @@ papers:
     title: Mi YouTube es Su YouTube? Analyzing the Cultures using YouTube Thumbnails of Popular Videos
     year: '2020'
   80LwB0cAAAAJ:Zph67rFs4hoC:
-    citations: 661
+    citations: 663
     title: Expanding language-image pretrained models for general video recognition
     year: '2022'
   80LwB0cAAAAJ:_kc_bZDykSQC:
@@ -94,7 +94,7 @@ papers:
     title: Content-based Analysis of the Cultural Differences between TikTok and Douyin
     year: '2020'
   80LwB0cAAAAJ:zYLM7Y9cAGgC:
-    citations: 745
+    citations: 746
     title: Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language
     year: '2019'
   80LwB0cAAAAJ:za7pDTvVV8kC:
